@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ConvertTemperature.dir/main.cpp.o"
+  "CMakeFiles/ConvertTemperature.dir/main.cpp.obj"
   "ConvertTemperature.pdb"
-  "ConvertTemperature"
+  "ConvertTemperature.exe"
+  "ConvertTemperature.exe.manifest"
+  "ConvertTemperature.lib"
 )
 
 # Per-language clean rules from dependency scanning.

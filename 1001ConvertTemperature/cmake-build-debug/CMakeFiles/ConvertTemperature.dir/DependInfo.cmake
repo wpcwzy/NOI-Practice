@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/wpcwzy/OJ/ConvertTemperature/main.cpp" "/home/wpcwzy/OJ/ConvertTemperature/cmake-build-debug/CMakeFiles/ConvertTemperature.dir/main.cpp.o"
+  "F:/NOI-Practice/1001ConvertTemperature/main.cpp" "F:/NOI-Practice/1001ConvertTemperature/cmake-build-debug/CMakeFiles/ConvertTemperature.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
