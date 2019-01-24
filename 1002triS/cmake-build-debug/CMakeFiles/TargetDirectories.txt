@@ -1,0 +1,3 @@
+/home/wpcwzy/OJ/triS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpcwzy/OJ/triS/cmake-build-debug/CMakeFiles/triS.dir
+/home/wpcwzy/OJ/triS/cmake-build-debug/CMakeFiles/edit_cache.dir

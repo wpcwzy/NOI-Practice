@@ -1,0 +1,3 @@
+/home/wpcwzy/OJ/pickStones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpcwzy/OJ/pickStones/cmake-build-debug/CMakeFiles/pickStones.dir
+/home/wpcwzy/OJ/pickStones/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1027numSum.dir/main.cpp.o  -o 1027numSum 

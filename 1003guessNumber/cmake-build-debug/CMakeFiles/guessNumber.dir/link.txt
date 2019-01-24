@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/guessNumber.dir/main.cpp.o  -o guessNumber 

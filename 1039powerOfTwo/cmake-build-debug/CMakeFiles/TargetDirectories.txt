@@ -1,0 +1,3 @@
+/home/wpcwzy/OJ/1039powerOfTwo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpcwzy/OJ/1039powerOfTwo/cmake-build-debug/CMakeFiles/1039powerOfTwo.dir
+/home/wpcwzy/OJ/1039powerOfTwo/cmake-build-debug/CMakeFiles/edit_cache.dir

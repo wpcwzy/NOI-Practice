@@ -1,0 +1,3 @@
+/home/wpcwzy/OJ/1022averageAge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpcwzy/OJ/1022averageAge/cmake-build-debug/CMakeFiles/1022averageAge.dir
+/home/wpcwzy/OJ/1022averageAge/cmake-build-debug/CMakeFiles/edit_cache.dir

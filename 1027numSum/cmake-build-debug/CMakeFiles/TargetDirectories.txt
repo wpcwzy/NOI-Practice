@@ -1,0 +1,3 @@
+/home/wpcwzy/OJ/1027numSum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpcwzy/OJ/1027numSum/cmake-build-debug/CMakeFiles/1027numSum.dir
+/home/wpcwzy/OJ/1027numSum/cmake-build-debug/CMakeFiles/edit_cache.dir

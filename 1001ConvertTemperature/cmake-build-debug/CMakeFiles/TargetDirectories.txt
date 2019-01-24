@@ -1,0 +1,3 @@
+/home/wpcwzy/OJ/ConvertTemperature/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpcwzy/OJ/ConvertTemperature/cmake-build-debug/CMakeFiles/ConvertTemperature.dir
+/home/wpcwzy/OJ/ConvertTemperature/cmake-build-debug/CMakeFiles/edit_cache.dir

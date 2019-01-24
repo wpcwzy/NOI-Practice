@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1033multiplicationFormulas.dir/main.cpp.o  -o 1033multiplicationFormulas 

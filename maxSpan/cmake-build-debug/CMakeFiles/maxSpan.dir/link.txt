@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/maxSpan.dir/main.cpp.o  -o maxSpan 

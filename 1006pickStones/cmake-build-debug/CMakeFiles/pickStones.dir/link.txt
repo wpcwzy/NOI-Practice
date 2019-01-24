@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pickStones.dir/main.cpp.o  -o pickStones 

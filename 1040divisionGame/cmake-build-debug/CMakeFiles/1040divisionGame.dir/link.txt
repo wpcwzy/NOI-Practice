@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1040divisionGame.dir/main.cpp.o  -o 1040divisionGame 

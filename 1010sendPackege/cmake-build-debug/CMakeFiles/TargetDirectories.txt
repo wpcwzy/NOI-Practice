@@ -1,0 +1,3 @@
+/home/wpcwzy/OJ/1010sendPackege/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpcwzy/OJ/1010sendPackege/cmake-build-debug/CMakeFiles/1010sendPackege.dir
+/home/wpcwzy/OJ/1010sendPackege/cmake-build-debug/CMakeFiles/edit_cache.dir

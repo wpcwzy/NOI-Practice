@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1021calcGrant.dir/main.cpp.o  -o 1021calcGrant 

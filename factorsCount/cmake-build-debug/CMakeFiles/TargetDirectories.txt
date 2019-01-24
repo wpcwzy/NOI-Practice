@@ -1,0 +1,3 @@
+/home/wpcwzy/OJ/factorsCount/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpcwzy/OJ/factorsCount/cmake-build-debug/CMakeFiles/factorsCount.dir
+/home/wpcwzy/OJ/factorsCount/cmake-build-debug/CMakeFiles/edit_cache.dir
