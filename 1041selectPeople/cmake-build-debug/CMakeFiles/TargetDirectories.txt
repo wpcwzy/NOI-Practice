@@ -1,0 +1,3 @@
+F:/NOI-Practice/1041selectPeople/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/NOI-Practice/1041selectPeople/cmake-build-debug/CMakeFiles/1041selectPeople.dir
+F:/NOI-Practice/1041selectPeople/cmake-build-debug/CMakeFiles/rebuild_cache.dir
